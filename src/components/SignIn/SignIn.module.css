@@ -1,0 +1,23 @@
+.box {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 400px;
+  width: 400px;
+  background: cornflowerblue;
+  border-radius: 10px;
+  margin: auto;
+}
+
+.box,
+input {
+  margin-bottom: 10px;
+}
+
+.boxBtn {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 175px;
+}
