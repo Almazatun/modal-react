@@ -1,2 +1,2 @@
-# How to create custom modal in react?
-🖥Example to create custome modal use React library
+# How to create custom modal in React?
+🖥Simple example of a modal written in React.
